@@ -12,13 +12,14 @@ export const Item = styled.li`
 
 export const Button = styled.button`
   margin-left: 20px;
+  margin-bottom: 5px;
   width: 60px;
   padding: 3px 5px;
   border: none;
   font-weight: 500;
   border-radius: 10px;
 
-  :hover {
+  :hover, focus {
     color: white;
     scale: 1.1;
     cursor: pointer;

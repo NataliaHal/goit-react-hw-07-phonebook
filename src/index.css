@@ -1,5 +1,5 @@
 @import-normalize;
-/* bring in normalize.css styles */
+
 
 body {
   margin: 0;
@@ -18,7 +18,7 @@ code {
 body {
   font-family: sans-serif;
   line-height: 1.5;
-  background-color: #607d8bc4;
+  background-color: #85cbc5c4;
 }
 
 h1,
